@@ -1,13 +1,9 @@
 # caddy-plugins-docker
 
-[Docker Hub](https://hub.docker.com/r/mrkaran/caddy)
-
 ## Using the image
 
-`docker pull mrkaran/caddy:latest`
+`docker pull ghcr.io/underyx/caddy`
 
-See the rest of instructions [here](https://registry.hub.docker.com/_/caddy).
-
-### List of plugins included
+## List of plugins included
 
 - [caddy-dns/cloudflare/](https://github.com/caddy-dns/cloudflare/)
